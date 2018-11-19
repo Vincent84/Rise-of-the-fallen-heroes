@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 5e644d575595bf04a8338be3032948f1
+timeCreated: 1500365963
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Burning Wrath
+  fontNames:
+  - Burning Wrath
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

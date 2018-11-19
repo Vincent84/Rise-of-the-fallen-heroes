@@ -1,0 +1,216 @@
+fileFormatVersion: 2
+guid: 917fcdade27c28d499d8c35e2ae2feaa
+timeCreated: 1501092216
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: mage parts_0
+    21300002: mage parts_1
+    21300004: mage parts_2
+    21300006: mage parts_3
+    21300008: mage parts_4
+    21300010: mage parts_5
+    21300012: mage parts_6
+    21300014: mage parts_7
+    21300016: mage parts_8
+    21300018: mage parts_9
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mage parts_0
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 1206
+        width: 201
+        height: 310
+      alignment: 9
+      pivot: {x: 0.50497514, y: 0.4983871}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mage parts_1
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 846.00006
+        width: 188
+        height: 422.99994
+      alignment: 9
+      pivot: {x: 0.49999997, y: 0.50118196}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mage parts_2
+      rect:
+        serializedVersion: 2
+        x: 438.49997
+        y: 282
+        width: 91.00003
+        height: 819
+      alignment: 9
+      pivot: {x: 0.47802216, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mage parts_3
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 891
+        width: 182
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mage parts_4
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 312
+        width: 150
+        height: 477
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49895176}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mage parts_5
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 312
+        width: 101
+        height: 494
+      alignment: 9
+      pivot: {x: 0.4809972, y: 0.45448694}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mage parts_6
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 527
+        width: 105
+        height: 245
+      alignment: 9
+      pivot: {x: 0.49523813, y: 0.48571426}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mage parts_7
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 641
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mage parts_8
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 376
+        width: 82
+        height: 396
+      alignment: 9
+      pivot: {x: 0.50609756, y: 0.49873737}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mage parts_9
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 353
+        width: 202
+        height: 452
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4988938}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 98375570761587
+  assetBundleName: 
+  assetBundleVariant: 

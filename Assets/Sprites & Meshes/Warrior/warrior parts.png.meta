@@ -1,0 +1,286 @@
+fileFormatVersion: 2
+guid: 3a43b0068e3d21c4ea86e38722b77fb7
+timeCreated: 1501075991
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: warrior parts_0
+    21300002: warrior parts_1
+    21300004: warrior parts_2
+    21300006: warrior parts_3
+    21300008: warrior parts_4
+    21300010: warrior parts_5
+    21300012: warrior parts_6
+    21300014: warrior parts_7
+    21300016: warrior parts_8
+    21300018: warrior parts_9
+    21300020: warrior parts_10
+    21300022: warrior parts_11
+    21300024: warrior parts_12
+    21300026: warrior parts_13
+    21300028: warrior parts_14
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: warrior parts_0
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 1099
+        width: 317
+        height: 383
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49869454}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: warrior parts_1
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 1343
+        width: 155
+        height: 178
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: warrior parts_2
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 1357
+        width: 127
+        height: 161
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: warrior parts_3
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 1271
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: warrior parts_4
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 1037
+        width: 287
+        height: 273
+      alignment: 9
+      pivot: {x: 0.49825785, y: 0.50183153}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: warrior parts_5
+      rect:
+        serializedVersion: 2
+        x: 44.5
+        y: 630
+        width: 132
+        height: 418
+      alignment: 9
+      pivot: {x: 0.48106062, y: 0.49999997}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: warrior parts_6
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 899
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: warrior parts_7
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 775
+        width: 100
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: warrior parts_8
+      rect:
+        serializedVersion: 2
+        x: 1275
+        y: 814.5
+        width: 284
+        height: 155
+      alignment: 9
+      pivot: {x: 0.4084507, y: 0.5064516}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: warrior parts_9
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 516
+        width: 127
+        height: 171
+      alignment: 9
+      pivot: {x: 0.43560573, y: 0.17635947}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: warrior parts_10
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 662
+        width: 240
+        height: 60
+      alignment: 9
+      pivot: {x: 0.4979167, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: warrior parts_11
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 63
+        width: 145
+        height: 467
+      alignment: 9
+      pivot: {x: 0.49655172, y: 0.49892932}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: warrior parts_12
+      rect:
+        serializedVersion: 2
+        x: 206.49998
+        y: 79.63855
+        width: 184.00002
+        height: 448
+      alignment: 9
+      pivot: {x: 0.48036397, y: 0.55232966}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: warrior parts_13
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 470.00003
+        width: 132
+        height: 162.99997
+      alignment: 9
+      pivot: {x: 0.6167483, y: 0.55034006}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: warrior parts_14
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 39
+        width: 699
+        height: 279
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4982079}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 98374515631394
+  assetBundleName: 
+  assetBundleVariant: 

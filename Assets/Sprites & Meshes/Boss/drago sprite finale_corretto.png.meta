@@ -1,0 +1,412 @@
+fileFormatVersion: 2
+guid: 5dcb7449a401b2d4f84395ef836468fc
+timeCreated: 1501968417
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: drago sprite finale_corretto_0
+    21300002: drago sprite finale_corretto_1
+    21300004: drago sprite finale_corretto_2
+    21300006: drago sprite finale_corretto_3
+    21300008: drago sprite finale_corretto_4
+    21300010: drago sprite finale_corretto_5
+    21300012: drago sprite finale_corretto_6
+    21300014: drago sprite finale_corretto_7
+    21300016: drago sprite finale_corretto_8
+    21300018: drago sprite finale_corretto_9
+    21300020: drago sprite finale_corretto_10
+    21300022: drago sprite finale_corretto_11
+    21300024: drago sprite finale_corretto_12
+    21300026: drago sprite finale_corretto_13
+    21300028: drago sprite finale_corretto_14
+    21300030: drago sprite finale_corretto_15
+    21300032: drago sprite finale_corretto_16
+    21300034: drago sprite finale_corretto_17
+    21300036: drago sprite finale_corretto_18
+    21300038: drago sprite finale_corretto_19
+    21300040: drago sprite finale_corretto_20
+    21300042: drago sprite finale_corretto_21
+    21300044: drago sprite finale_corretto_22
+    21300046: drago sprite finale_corretto_23
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: drago sprite finale_corretto_0
+      rect:
+        serializedVersion: 2
+        x: 499.17374
+        y: 2209.41
+        width: 183.33987
+        height: 172.35352
+      alignment: 9
+      pivot: {x: 0.47630808, y: 0.48789307}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: drago sprite finale_corretto_1
+      rect:
+        serializedVersion: 2
+        x: 756.5537
+        y: 2287.3506
+        width: 223.62305
+        height: 108.87695
+      alignment: 9
+      pivot: {x: 0.49613112, y: 0.5019374}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: drago sprite finale_corretto_2
+      rect:
+        serializedVersion: 2
+        x: 1200.8281
+        y: 2142.2766
+        width: 630.1173
+        height: 287.0996
+      alignment: 9
+      pivot: {x: 0.49859285, y: 0.49537995}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: drago sprite finale_corretto_3
+      rect:
+        serializedVersion: 2
+        x: 1922.782
+        y: 2275.22
+        width: 280.9961
+        height: 155.26367
+      alignment: 9
+      pivot: {x: 0.49900433, y: 0.48807317}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: drago sprite finale_corretto_4
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 2289
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: drago sprite finale_corretto_5
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 2256
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: drago sprite finale_corretto_6
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 2241
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: drago sprite finale_corretto_7
+      rect:
+        serializedVersion: 2
+        x: 808.0635
+        y: 2135.9382
+        width: 133.29102
+        height: 62.490234
+      alignment: 9
+      pivot: {x: 0.49468094, y: 0.50506717}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: drago sprite finale_corretto_8
+      rect:
+        serializedVersion: 2
+        x: 2044.7117
+        y: 2076.5322
+        width: 105.81592
+        height: 101.552734
+      alignment: 9
+      pivot: {x: 0.49886948, y: 0.50680834}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: drago sprite finale_corretto_9
+      rect:
+        serializedVersion: 2
+        x: 104.57812
+        y: 1512.9381
+        width: 84.46288
+        height: 273.67188
+      alignment: 9
+      pivot: {x: 0.49041522, y: 0.49534506}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: drago sprite finale_corretto_10
+      rect:
+        serializedVersion: 2
+        x: 202.24603
+        y: 1615.7888
+        width: 246.8164
+        height: 171.13281
+      alignment: 9
+      pivot: {x: 0.4912718, y: 0.49208087}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: drago sprite finale_corretto_11
+      rect:
+        serializedVersion: 2
+        x: 687.1377
+        y: 1469.0253
+        width: 545.8887
+        height: 586.17175
+      alignment: 9
+      pivot: {x: 0.49801797, y: 0.4989574}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: drago sprite finale_corretto_12
+      rect:
+        serializedVersion: 2
+        x: 1368.9814
+        y: 1502.2625
+        width: 763.1738
+        height: 547.1094
+      alignment: 9
+      pivot: {x: 0.49860024, y: 0.5012481}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: drago sprite finale_corretto_13
+      rect:
+        serializedVersion: 2
+        x: 141.00879
+        y: 1426.0494
+        width: 152.82227
+        height: 69.81445
+      alignment: 9
+      pivot: {x: 0.4907086, y: 0.48629704}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: drago sprite finale_corretto_14
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 1037
+        width: 197.98828
+        height: 268.78906
+      alignment: 9
+      pivot: {x: 0.5000296, y: 0.496672}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: drago sprite finale_corretto_15
+      rect:
+        serializedVersion: 2
+        x: 80.82322
+        y: 885.9384
+        width: 290.76175
+        height: 124.74609
+      alignment: 9
+      pivot: {x: 0.49929813, y: 0.5055195}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: drago sprite finale_corretto_16
+      rect:
+        serializedVersion: 2
+        x: 778.68445
+        y: 872.03723
+        width: 205.18127
+        height: 150.69604
+      alignment: 9
+      pivot: {x: 0.49378586, y: 0.49412516}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: drago sprite finale_corretto_17
+      rect:
+        serializedVersion: 2
+        x: 999.19214
+        y: 767.2295
+        width: 945.0587
+        height: 255.36133
+      alignment: 9
+      pivot: {x: 0.5024108, y: 0.49447802}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: drago sprite finale_corretto_18
+      rect:
+        serializedVersion: 2
+        x: 112.30565
+        y: 717.6161
+        width: 222.40236
+        height: 147.93945
+      alignment: 9
+      pivot: {x: 0.49322483, y: 0.5027993}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: drago sprite finale_corretto_19
+      rect:
+        serializedVersion: 2
+        x: 810.0635
+        y: 756.9951
+        width: 185.78125
+        height: 110.09766
+      alignment: 9
+      pivot: {x: 0.49217275, y: 0.49051857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: drago sprite finale_corretto_20
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 853
+        width: 5
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: drago sprite finale_corretto_21
+      rect:
+        serializedVersion: 2
+        x: 660.04095
+        y: 733.30566
+        width: 116.20117
+        height: 114.98047
+      alignment: 9
+      pivot: {x: 0.4643594, y: 0.5148213}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: drago sprite finale_corretto_22
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 749
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: drago sprite finale_corretto_23
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 733
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 98433000145651
+  assetBundleName: 
+  assetBundleVariant: 

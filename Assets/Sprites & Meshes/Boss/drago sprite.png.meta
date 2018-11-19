@@ -1,0 +1,370 @@
+fileFormatVersion: 2
+guid: 661c52b2fc16a2147b8f24cc525ca745
+timeCreated: 1501622577
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: drago sprite_0
+    21300002: drago sprite_1
+    21300004: drago sprite_2
+    21300006: drago sprite_3
+    21300008: drago sprite_4
+    21300010: drago sprite_5
+    21300012: drago sprite_6
+    21300014: drago sprite_7
+    21300016: drago sprite_8
+    21300018: drago sprite_9
+    21300020: drago sprite_10
+    21300022: drago sprite_11
+    21300024: drago sprite_12
+    21300026: drago sprite_13
+    21300028: drago sprite_14
+    21300030: drago sprite_15
+    21300032: drago sprite_16
+    21300034: drago sprite_17
+    21300036: drago sprite_18
+    21300038: drago sprite_19
+    21300040: drago sprite_20
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: drago sprite_0
+      rect:
+        serializedVersion: 2
+        x: 144.12598
+        y: 2199.2412
+        width: 82.021484
+        height: 272.45117
+      alignment: 9
+      pivot: {x: 0.49833316, y: 0.50195706}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: drago sprite_1
+      rect:
+        serializedVersion: 2
+        x: 391.54385
+        y: 2229.9443
+        width: 238.27145
+        height: 168.6914
+      alignment: 9
+      pivot: {x: 0.5013446, y: 0.49531665}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: drago sprite_2
+      rect:
+        serializedVersion: 2
+        x: 885.9384
+        y: 2227.2686
+        width: 177.23639
+        height: 168.6914
+      alignment: 9
+      pivot: {x: 0.49403876, y: 0.4874667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: drago sprite_3
+      rect:
+        serializedVersion: 2
+        x: 1145.9287
+        y: 2247.0615
+        width: 222.40234
+        height: 107.65625
+      alignment: 9
+      pivot: {x: 0.50166476, y: 0.47315854}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: drago sprite_4
+      rect:
+        serializedVersion: 2
+        x: 1464.6045
+        y: 2189.5088
+        width: 630.1172
+        height: 287.0996
+      alignment: 9
+      pivot: {x: 0.5005349, y: 0.4928297}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: drago sprite_5
+      rect:
+        serializedVersion: 2
+        x: 2157.9658
+        y: 2312.7673
+        width: 282.2168
+        height: 155.26367
+      alignment: 9
+      pivot: {x: 0.49619365, y: 0.49420875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: drago sprite_6
+      rect:
+        serializedVersion: 2
+        x: 2330.626
+        y: 2195.9553
+        width: 107.65625
+        height: 101.552734
+      alignment: 9
+      pivot: {x: 0.50042635, y: 0.4829503}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: drago sprite_7
+      rect:
+        serializedVersion: 2
+        x: 122.09862
+        y: 2071.8567
+        width: 152.82225
+        height: 71.03516
+      alignment: 9
+      pivot: {x: 0.49666446, y: 0.48769248}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: drago sprite_8
+      rect:
+        serializedVersion: 2
+        x: 1203.7764
+        y: 2102.8975
+        width: 132.07031
+        height: 63.710938
+      alignment: 9
+      pivot: {x: 0.49764124, y: 0.48817828}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: drago sprite_9
+      rect:
+        serializedVersion: 2
+        x: 24.196274
+        y: 1557.331
+        width: 291.98242
+        height: 127.1875
+      alignment: 9
+      pivot: {x: 0.49422067, y: 0.5084536}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: drago sprite_10
+      rect:
+        serializedVersion: 2
+        x: 409.84372
+        y: 1500.7041
+        width: 196.76755
+        height: 268.78906
+      alignment: 9
+      pivot: {x: 0.49884385, y: 0.4996335}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: drago sprite_11
+      rect:
+        serializedVersion: 2
+        x: 781.6982
+        y: 1445.298
+        width: 545.8886
+        height: 588.6133
+      alignment: 9
+      pivot: {x: 0.499739, y: 0.4972739}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: drago sprite_12
+      rect:
+        serializedVersion: 2
+        x: 1560.1102
+        y: 1464.9872
+        width: 763.17395
+        height: 547.1094
+      alignment: 9
+      pivot: {x: 0.49843147, y: 0.49900958}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: drago sprite_13
+      rect:
+        serializedVersion: 2
+        x: 86.71972
+        y: 1200.8281
+        width: 221.18164
+        height: 146.71887
+      alignment: 9
+      pivot: {x: 0.5008566, y: 0.49190587}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: drago sprite_14
+      rect:
+        serializedVersion: 2
+        x: 84.21289
+        y: 818.13965
+        width: 205.3125
+        height: 146.71875
+      alignment: 9
+      pivot: {x: 0.48846084, y: 0.43525735}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: drago sprite_15
+      rect:
+        serializedVersion: 2
+        x: 396.3232
+        y: 816.7392
+        width: 179.67776
+        height: 110.09766
+      alignment: 9
+      pivot: {x: 0.48796698, y: 0.4928425}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: drago sprite_16
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 914
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: drago sprite_17
+      rect:
+        serializedVersion: 2
+        x: 1217.9111
+        y: 769.126
+        width: 945.0586
+        height: 254.14062
+      alignment: 9
+      pivot: {x: 0.4053599, y: 0.4952928}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: drago sprite_18
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 817
+        width: 16
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: drago sprite_19
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 545
+        width: 107.65625
+        height: 114.98047
+      alignment: 9
+      pivot: {x: 0.4923077, y: 0.50008494}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: drago sprite_20
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 561
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 98410336637005
+  assetBundleName: 
+  assetBundleVariant: 

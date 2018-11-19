@@ -1,0 +1,286 @@
+fileFormatVersion: 2
+guid: b2df88eadaef7844db44a87aca870769
+timeCreated: 1501325854
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: brute parts_0
+    21300002: brute parts_1
+    21300004: brute parts_2
+    21300006: brute parts_3
+    21300008: brute parts_4
+    21300010: brute parts_5
+    21300012: brute parts_6
+    21300014: brute parts_7
+    21300016: brute parts_8
+    21300018: brute parts_9
+    21300020: brute parts_10
+    21300022: brute parts_11
+    21300024: brute parts_12
+    21300026: brute parts_13
+    21300028: brute parts_14
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: brute parts_0
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 1099
+        width: 317
+        height: 383
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49869454}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: brute parts_1
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 1342
+        width: 157
+        height: 180
+      alignment: 9
+      pivot: {x: 0.4936306, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: brute parts_2
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 1355
+        width: 131
+        height: 165
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49999997}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: brute parts_3
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 1271
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: brute parts_4
+      rect:
+        serializedVersion: 2
+        x: 1293
+        y: 1037
+        width: 220
+        height: 268
+      alignment: 9
+      pivot: {x: 0.5568182, y: 0.5037313}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: brute parts_5
+      rect:
+        serializedVersion: 2
+        x: 44.5
+        y: 630
+        width: 132
+        height: 418
+      alignment: 9
+      pivot: {x: 0.48106062, y: 0.49999997}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: brute parts_6
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 899
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: brute parts_7
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 775
+        width: 104
+        height: 258
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49612403}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: brute parts_8
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 811
+        width: 127
+        height: 171
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49707603}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: brute parts_9
+      rect:
+        serializedVersion: 2
+        x: 1275
+        y: 814.5
+        width: 284
+        height: 155
+      alignment: 9
+      pivot: {x: 0.4084507, y: 0.5064516}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: brute parts_10
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 662
+        width: 240
+        height: 60
+      alignment: 9
+      pivot: {x: 0.4979167, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: brute parts_11
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 60.000015
+        width: 141
+        height: 463
+      alignment: 9
+      pivot: {x: 0.4902259, y: 0.5025683}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: brute parts_12
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 82
+        width: 182
+        height: 447
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: brute parts_13
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 470.00003
+        width: 132
+        height: 162.99997
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5030674}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: brute parts_14
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 89
+        width: 699
+        height: 279
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4982079}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 98390889652003
+  assetBundleName: 
+  assetBundleVariant: 
